@@ -19,9 +19,11 @@ export default function Home() {
   ]
 
   const companies = [
+    { name: "SHM", icon: "/SHM.svg" },
     { name: "OSOM", icon: "/OSOM.png" },
     { name: "APSPACE", icon: "/APSPACE.svg" },
     { name: "Beyond", icon: "/Beyond.avif" },
+    { name: "Grapes", icon: "/Grapes.png" },
   ];
 
 
